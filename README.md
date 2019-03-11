@@ -12,5 +12,5 @@ The task converts Your sqlmap2 files to myBatis mappers in the destination folde
 Have fun and maybe You can post some improvements/bugfixes as this initial version is by no means perfect yet!
 
 Greetings from Frankfurt/Germany
-master
+fengjinlong
 
